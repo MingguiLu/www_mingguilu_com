@@ -17,19 +17,13 @@ theme = ""
   title = "E-mail"
 
 [[params.social]]
-  medium = "Github"
-  icon = "github"
-  link = "https://github.com/MingguiLu"
-  title = "Github"
-
-[[params.social]]
-  medium = "Linux"
-  icon = "linux"
-  link = "http://linux.mingguilu.com/"
-  title = "Linux"
-
-[[params.social]]
   medium = "Blog"
   icon = "book"
   link = "http://blog.mingguilu.com"
   title = "Blog"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "https://github.com/MingguiLu"
+  title = "Github"
